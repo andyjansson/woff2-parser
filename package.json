@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/andyjansson/woff2-parser/issues"
   },
-  "homepage": "https://github.com/andyjansson/woff2-parser#readme"
+  "homepage": "https://github.com/andyjansson/woff2-parser#readme",
+  "dependencies": {
+    "brotli": "^1.1.0",
+    "es6-promise": "^3.0.2",
+    "iconv-lite": "^0.4.11"
+  }
 }
