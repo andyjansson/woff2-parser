@@ -1,0 +1,25 @@
+{
+  "name": "woff2-parser",
+  "version": "1.0.0",
+  "description": "WOFF2 font parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyjansson/woff2-parser.git"
+  },
+  "keywords": [
+    "woff2",
+    "woff",
+    "font",
+    "parser"
+  ],
+  "author": "Andy Jansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andyjansson/woff2-parser/issues"
+  },
+  "homepage": "https://github.com/andyjansson/woff2-parser#readme"
+}
