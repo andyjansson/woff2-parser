@@ -1,0 +1,103 @@
+{
+	"flavor": "TrueType",
+	"totalSfntSize": 25408,
+	"majorVersion": 1,
+	"minorVersion": 3276,
+	"name": {
+		"format": 0,
+		"nameRecords": {
+			"English": {
+				"fontFamily": "Source Sans Pro",
+				"fontSubFamily": "Regular",
+				"uniqueFontId": "1.050;ADBE;SourceSansPro-Regular;ADOBE",
+				"fullName": "Source Sans Pro",
+				"version": "Version 1.050;PS Version 1.000;hotconv 1.0.70;makeotf.lib2.5.5900",
+				"postscriptName": "SourceSansPro-Regular",
+				"licenseUrl": "http://www.adobe.com/type/legal.html"
+			}
+		}
+	},
+	"OS/2": {
+		"version": 3,
+		"averageCharacterWidth": 455,
+		"weight": {
+			"value": 400,
+			"description": "Normal"
+		},
+		"width": {
+			"value": 5,
+			"description": "Medium (normal)",
+			"percentage": 100
+		},
+		"type": "Installable Embedding",
+		"subscript": {
+			"horizontalFontSize": 650,
+			"verticalFontSize": 600,
+			"horizontalOffset": 0,
+			"verticalOffset": 75
+		},
+		"superscript": {
+			"horizontalFontSize": 650,
+			"verticalFontSize": 600,
+			"horizontalOffset": 0,
+			"verticalOffset": 350
+		},
+		"strikeout": {
+			"width": 50,
+			"position": 288
+		},
+		"fontFamilyClass": "No Classification",
+		"panose": {
+			"familyType": "Text and display",
+			"serifStyle": "Normal sans serif",
+			"weight": "Book",
+			"proportion": "Modern",
+			"contrast": "Very low",
+			"strokeVariation": "Gradual/vertical",
+			"armStyle": "Straight arms/wedge",
+			"letterform": "Normal/contact",
+			"midline": "Standard/trimmed",
+			"xHeight": "Constant/large"
+		},
+		"unicodeRange1": [
+			"Basic Latin",
+			"Latin-1 Supplement",
+			"Latin Extended-A",
+			"Latin Extended Additional"
+		],
+		"unicodeRange2": [
+			"Superscripts And Subscripts"
+		],
+		"unicodeRange3": [],
+		"unicodeRange4": [],
+		"fontVendorID": "ADBE",
+		"selection": {
+			"italic": false,
+			"underscore": false,
+			"negative": false,
+			"outlined": false,
+			"bold": false,
+			"regular": false,
+			"useTypoMetrics": false,
+			"wws": true,
+			"oblique": true
+		},
+		"firstCharacterIndex": 0,
+		"lastCharacterIndex": 65279,
+		"typographicAscender": 750,
+		"typographicDescender": -250,
+		"typographicLinegap": 0,
+		"windowsAscent": 984,
+		"windowsDescent": 273,
+		"codePageRange1": [
+			"Reserved for OEM",
+			"Arabic; ASMO 708"
+		],
+		"codePageRange2": [],
+		"xHeight": 480,
+		"capHeight": 660,
+		"defaultCharacter": 0,
+		"breakCharacter": 32,
+		"maxContent": 3
+	}
+}
