@@ -4,7 +4,7 @@
   "description": "WOFF2 font parser",
   "main": "index.js",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,8 @@
     "brotli": "^1.1.0",
     "es6-promise": "^3.0.2",
     "iconv-lite": "^0.4.11"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
   }
 }
